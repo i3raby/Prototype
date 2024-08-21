@@ -1,0 +1,26 @@
+{
+  "name": "prototype",
+  "version": "0.0.1-project",
+  "description": "A utility function that allows you to dynamically extend objects with additional properties and methods at runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "extension",
+    "utility",
+    "prototype",
+    "dynamic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i3raby/Prototype.git"
+  },
+  "author": "Muhammed <i3rabyx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i3raby/Prototype/issues"
+  },
+  "homepage": "https://github.com/i3raby/Prototype#readme"
+}
