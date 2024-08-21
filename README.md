@@ -28,7 +28,8 @@ console.log(user.username());
 
 ## API
 
-`Prototype(object, props)`
+### **`Prototype(object, props)`**
+
 Extends the `object` with properties and methods defined in `props`.
 
 - `object`: The target object to be extended.
